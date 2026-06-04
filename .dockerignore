@@ -1,0 +1,8 @@
+.git
+.idea
+*.iml
+*.exe
+/api
+/build_index
+/index.bin
+/references.json.gz
