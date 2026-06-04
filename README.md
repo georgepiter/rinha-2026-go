@@ -69,7 +69,18 @@ k6 run smoke.js
 k6 run test.js
 ```
 
-Ultimo resultado local:
+Resultado oficial:
+
+```text
+p99: 59.47ms
+http_errors: 0
+false_positive_detections: 33
+false_negative_detections: 95
+weighted_errors_E: 318
+final_score: 2704.94
+```
+
+Resultado local:
 
 ```text
 p99: 1.39ms
