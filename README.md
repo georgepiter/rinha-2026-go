@@ -72,10 +72,10 @@ k6 run test.js
 Ultimo resultado local:
 
 ```text
-p99: 1.09ms
+p99: 1.39ms
 http_errors: 0
 false_positive_detections: 5
 false_negative_detections: 6
 weighted_errors_E: 23
-final_score: 5547.00
+final_score: 5443.42
 ```

@@ -1,7 +1,6 @@
 services:
   api1:
-    build: .
-    image: rinha-api-go:latest
+    image: ghcr.io/georgepiter/rinha-2026-go:latest
     deploy:
       resources:
         limits:
@@ -11,8 +10,7 @@ services:
       - rinha-network
 
   api2:
-    build: .
-    image: rinha-api-go:latest
+    image: ghcr.io/georgepiter/rinha-2026-go:latest
     deploy:
       resources:
         limits:
