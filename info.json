@@ -1,5 +1,5 @@
 {
-  "participants": ["George Piter"],
+  "participants": ["georgepiter"],
   "social": ["https://github.com/georgepiter"],
   "source-code-repo": "https://github.com/georgepiter/rinha-2026-go",
   "stack": ["go", "fasthttp", "nginx"],
